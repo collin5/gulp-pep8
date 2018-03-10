@@ -1,0 +1,19 @@
+{
+  "name": "gulp-pep8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/collin5/gulp-pep8.git"
+  },
+  "author": "abtcolns@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/collin5/gulp-pep8/issues"
+  },
+  "homepage": "https://github.com/collin5/gulp-pep8#readme"
+}
