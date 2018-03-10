@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/collin5/gulp-pep8/issues"
   },
-  "homepage": "https://github.com/collin5/gulp-pep8#readme"
+  "homepage": "https://github.com/collin5/gulp-pep8#readme",
+  "dependencies": {
+    "through2": "^2.0.3"
+  }
 }
