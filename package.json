@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/collin5/gulp-pep8#readme",
   "dependencies": {
+    "ansi-colors": "^1.1.0",
     "through2": "^2.0.3"
   }
 }
