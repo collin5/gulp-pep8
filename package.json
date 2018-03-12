@@ -1,7 +1,7 @@
 {
   "name": "gulp-pep8",
-  "version": "1.0.3",
-  "description": "",
+  "version": "1.0.4",
+  "description": "Gulp plugin for pep8 coding standards",
   "main": "./lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
