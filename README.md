@@ -19,7 +19,7 @@ gulp.task('lint', () => {
     .pipe(gulpPep8());
 });
 ```
-#### with options
+#### With options
 To use with custom options, we pass them as a key, value pair object i.e
 
 ```javascript
@@ -37,4 +37,4 @@ gulp.task('lint', () => {
 
 
 ## License
-Gulp pep8 is licensed under the terms of MIT license and is available for free.
+Gulp pep8 is licensed under the terms of MIT [license](LICENSE.md) and is available for free.
