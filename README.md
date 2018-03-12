@@ -12,7 +12,7 @@
  
  ```
 ## Usage
-```
+```javascript
 const gulpPep8 = require('gulp-pep8')
 const gulp = require('gulp');
 
