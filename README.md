@@ -7,6 +7,7 @@
   :closed_book: Gulp plugin for pep8 coding standards
  
  ## Installation
+
   In your terminal, do
 
  ```
