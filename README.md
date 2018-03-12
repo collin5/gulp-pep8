@@ -19,8 +19,8 @@ gulp.task('lint', () => {
     .pipe(gulpPep8());
 });
 ```
-### Options
-To use with custom options, we pass them as a key, value object i.e
+#### with options
+To use with custom options, we pass them as a key, value pair object i.e
 
 ```javascript
 gulp.task('lint', () => {
