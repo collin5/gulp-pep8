@@ -4,7 +4,7 @@
 # Gulp Pep8
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
 
- Gulp plugin for pep8 coding standards
+  :closed_book: Gulp plugin for pep8 coding standards
  
  ## Installation
  `npm install gulp-pep8`
