@@ -7,10 +7,8 @@
  Gulp plugin for pep8 coding standards
  
  ## Installation
- ```
- npm install gulp-pep8
+ `npm install gulp-pep8`
  
- ```
 ## Usage
 ```javascript
 const gulpPep8 = require('gulp-pep8')
