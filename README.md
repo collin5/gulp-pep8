@@ -1,4 +1,4 @@
-![logo](/screenshots/gulp-pep8.png)
+<img src="/screenshots/gulp-pep8.png" alt="logo" width="450"/>
 
 # Gulp Pep8
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
