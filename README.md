@@ -19,6 +19,21 @@ gulp.task('lint', () => {
     .pipe(gulpPep8());
 });
 ```
+### Options
+To use with custom options, we pass them as a key, value object i.e
+
+```javascript
+gulp.task('lint', () => {
+  return gulp.src('*.py')
+    .pipe(gulpPep8({
+        ignore: ['E501', 'E731', ...],
+        onFail: () => {
+        // when we get errors
+        }
+        ...
+      }));
+});
+```
 
 
 ## License
