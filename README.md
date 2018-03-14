@@ -4,8 +4,10 @@
   :closed_book: Gulp plugin for pep8 coding standards
  
 ## Installation
+
  ```
  npm install gulp-pep8
+
  ```
  
 ## Usage
