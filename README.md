@@ -8,7 +8,6 @@
 
  ```
  npm install gulp-pep8
-
  ```
  
 ## Usage
