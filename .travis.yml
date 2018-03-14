@@ -1,0 +1,11 @@
+{
+  "install": [
+    "npm install"
+  ],
+  "script": "npm test",
+  "language": "ruby",
+  "group": "stable",
+  "dist": "trusty",
+  "os": "linux"
+}
+

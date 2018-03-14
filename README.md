@@ -1,5 +1,6 @@
 # Gulp Pep8
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com) 
+[![Build Status](https://travis-ci.org/collin5/gulp-pep8.svg?branch=master)](https://travis-ci.org/collin5/gulp-pep8)
 
   :closed_book: Gulp plugin for pep8 coding standards
  
