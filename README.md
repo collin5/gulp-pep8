@@ -1,6 +1,7 @@
 # Gulp Pep8
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com) 
 [![Build Status](https://travis-ci.org/collin5/gulp-pep8.svg?branch=master)](https://travis-ci.org/collin5/gulp-pep8)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   :closed_book: Gulp plugin for pep8 coding standards
  
@@ -8,6 +9,7 @@
 
  ```
  npm install gulp-pep8
+ 
  ```
  
 ## Usage
@@ -38,4 +40,4 @@ gulp.task('lint', () => {
 
 
 ## License
-Gulp pep8 is licensed under the terms of MIT [license](LICENSE.md) and is available for free.
+Gulp pep8 is licensed under the terms of [MIT](LICENSE.md) license and is available for free.
