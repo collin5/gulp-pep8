@@ -1,6 +1,6 @@
 {
   "name": "gulp-pep8",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Gulp plugin for pep8 coding standards",
   "main": "./lib/index.js",
   "scripts": {
